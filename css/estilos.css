@@ -326,9 +326,9 @@ label.inline {
 }
 
 .marcado {    
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: 600;
-    color: red;
+    color: #E70000;
 }
 
 button {
